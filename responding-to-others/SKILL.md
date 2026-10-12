@@ -1,6 +1,6 @@
 ---
 name: responding-to-others
-description: Use when drafting, revising, formatting, or sending emails, messages, replies, or comments on Ollie's behalf, including communicating results as part of a larger task.
+description: Use when drafting, revising, formatting, or sending emails, messages, replies, or comments on Danny's behalf, including communicating results as part of a larger task.
 ---
 
 # How we are working
@@ -13,7 +13,7 @@ Determine how we are working together from the outgoing message itself, not any 
 
 If we work on an artifact together and I ask you to send it to someone instead of asking to review a message we can send them, you are working autonomously on that message.
 
-Where we worked on the attachment collaboratively, acknowledge that naturally; for example, "Ollie and I have reviewed this together" or "Ollie and I have been working on...". This additional acknowledgement is optional if the artifact already explains the AI involvement. The outgoing message must still have its own appropriate disclosure.
+Where we worked on the attachment collaboratively, acknowledge that naturally; for example, "Danny and I have reviewed this together" or "Danny and I have been working on...". This additional acknowledgement is optional if the artifact already explains the AI involvement. The outgoing message must still have its own appropriate disclosure.
 
 A request to send authorises the send; do not add a review step solely to determine which disclosure to use.
 
@@ -43,7 +43,7 @@ When you are autonomously interacting on my behalf, disclosure comes first befor
 
 ```
 > [!NOTE]
-> 🤖 **{Model name} responding on behalf of Ollie**
+> 🤖 **{Model name} responding on behalf of Danny**
 
 {content}
 ```
@@ -58,7 +58,7 @@ When we are drafting collaboratively and I am there, I am happy for the message 
 
 ```Signature
 Kind Regards,
-Ollie
+Danny
 
 🤖 _Drafted with AI assistance._
 ```

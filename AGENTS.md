@@ -13,6 +13,6 @@ This repo uses custom frontmatter fields. These are documented in `docs/metadata
 ## Setting up or refreshing my environment
 Install every skill globally with the `skills` CLI, from GitHub rather than a local checkout. Check each skill's metadata and follow the usage in `docs/metadata.md` for any fields it sets. Otherwise install with:
 
-`npx skills add discorev/ai-skills -g -y -s <skill> [<skill>...]`
+`npx skills add MrDWilson/ai-skills -g -y -s <skill> [<skill>...]`
 
 Finish by checking `npx skills list -g` and fixing anything that ended up in the wrong place.

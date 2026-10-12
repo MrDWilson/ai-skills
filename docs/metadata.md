@@ -17,4 +17,4 @@ metadata:
 
 ### Usage
 
-When installing a skill, if a list of harnesses is set then install with `npx skills add discorev/ai-skills -g -y -a <harness> [<harness>...] -s <skill>` to ensure that the skill is only added for the listed harnesses. If the skill is already in `~/.agents/skills` (e.g. it was universal before `harness` was set), remove that copy first with `npx skills remove -g -y <skill>`. `npx skills update` does not track these installs, so refresh them by re-running the `add`.
+When installing a skill, if a list of harnesses is set then install with `npx skills add MrDWilson/ai-skills -g -y -a <harness> [<harness>...] -s <skill>` to ensure that the skill is only added for the listed harnesses. If the skill is already in `~/.agents/skills` (e.g. it was universal before `harness` was set), remove that copy first with `npx skills remove -g -y <skill>`. `npx skills update` does not track these installs, so refresh them by re-running the `add`.
